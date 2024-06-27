@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/dimassagngsptr/pijar-mama-recipe.git">
-      <img src="https://github.com/dimassagngsptr/food-recipe/blob/master/docs/screenshot/logo.png" width="350"/>
+      <img src="https://github.com/dimassagngsptr/food-recipe/blob/master/docs/screenshot/logo.png" width="300"/>
   </a>
 
   <h1 align="center">Food Recipe</h1>
