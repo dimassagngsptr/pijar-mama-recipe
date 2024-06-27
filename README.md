@@ -66,7 +66,7 @@ Ensure you have the following installed on your local machine:
       cd pijar-mama-recipe
    ```
 
-  Open VsCode
+    Open VsCode
 
   ```sh
     code .
