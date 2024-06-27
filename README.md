@@ -35,10 +35,10 @@ This back-end project for **Mama Recipe** was developed by [muhammadrisano](http
 
 ### Built With
 
-[![Next][Express.js]](https://expressjs.com/)
-[![Node][Node.js]](https://nodejs.org/en)
-[![Prisma][Prisma]](https://www.prisma.io/)
-[![Postgre][Postgre]](https://www.postgresql.org/)
+[Express.js](https://expressjs.com/)
+[Node.js](https://nodejs.org/en)
+[Prisma](https://www.prisma.io/)
+[Postgre Sql](https://www.postgresql.org/)
 
 ## Getting Started
 
