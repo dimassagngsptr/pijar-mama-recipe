@@ -1,15 +1,17 @@
-div align="center">
-  <a href="https://github.com/dimassagngsptr/Peworld">
+<div align="center">
+  <a href="https://github.com/dimassagngsptr/pijar-mama-recipe.git">
       <img src="https://github.com/dimassagngsptr/food-recipe/blob/master/docs/screenshot/logo.png" width="350"/>
   </a>
-  <h1 align="center">Peworld</h1>
+
+  <h1 align="center">Food Recipe</h1>
+
   <p align="center">
-    Food Recipe Implementation
+     Food Recipe Implementation
     <br />
     <br />
-   <a href="https://food-recipe-dimas.vercel.app/" target="_blank">View Website Demo</a>
+    <a href="https://food-recipe-dimas.vercel.app/" target="_blank">View Website Demo</a>
     ·
-    <a href="https://github.com/dimassagngsptr/pijar-mama-recipe" target="_blank">View Back-End Repo</a>
+     <a href="https://github.com/dimassagngsptr/pijar-mama-recipe" target="_blank">View Back-End Repo</a>
   </p>
 </div>
 
