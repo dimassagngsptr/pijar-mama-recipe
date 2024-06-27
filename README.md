@@ -68,9 +68,9 @@ Ensure you have the following installed on your local machine:
 
     Open VsCode
 
-  ```sh
-    code .
-  ```
+    ```sh
+      code .
+    ```
 
 3. Install NPM packages
 
