@@ -145,6 +145,16 @@ Access the API documentation for the **Mama Recipe** project, also created by [h
 
 [![Mama Recipe API Postman Documentation](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7675329/2sA3QqerrC#0e5dea50-1ec3-4ffe-b096-b1d0ab42d5c1)
 
+
+### Project Related
+
+- [`Front-End Project Repository Link`](https://github.com/dimassagngsptr/food-recipe.git)
+
+- [`Front-End Demonstration Link`](https://food-recipe-dimas.vercel.app/)
+
+- [`Back-End Demonstration Link`]( https://pijar-mama-recipe.vercel.app/v1/recipes)
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
